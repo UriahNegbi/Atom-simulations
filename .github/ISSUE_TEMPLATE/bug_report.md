@@ -15,7 +15,7 @@ Steps to reproduce the behavior:
 1. protons..
 2. nuetrons..
 3. electorns..
-4. error/output..
+4. error/output..  
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
