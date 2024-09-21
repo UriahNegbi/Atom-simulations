@@ -2,6 +2,7 @@
 our goals is to make the best Atom Sim open source project
 
 ## abilities
+-Calculation of mass
 -Calculation of stable unstable atoms (correct 60-70%)
 -know all of the 118 elements
 -easy to use

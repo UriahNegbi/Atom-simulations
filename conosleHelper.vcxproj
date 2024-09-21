@@ -24,6 +24,7 @@
     <ProjectGuid>{8628c8e5-ec47-4157-9bfb-95127053748a}</ProjectGuid>
     <RootNamespace>conosleHelper</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>AtomSimulator</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -129,11 +130,13 @@
   <ItemGroup>
     <ClCompile Include="ion.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Mass.cpp" />
     <ClCompile Include="protonon.cpp" />
     <ClCompile Include="stable.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ion.h" />
+    <ClInclude Include="Mass.h" />
     <ClInclude Include="protonon.h" />
     <ClInclude Include="stable.h" />
   </ItemGroup>
