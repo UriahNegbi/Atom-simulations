@@ -46,7 +46,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="README.txt">
+    <Text Include="README.md">
       <Filter>Source Files</Filter>
     </Text>
     <Text Include="elementsNames.txt">
