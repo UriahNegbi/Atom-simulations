@@ -7,3 +7,8 @@ our goals is to make the best Atom Sim open source project
 -know all of the 118 elements
 -easy to use
 -ion calculation (correct 90%-95% of the times)
+
+
+#contact
+email: negbiuriah1@gmail.com
+discord: james(UR)
