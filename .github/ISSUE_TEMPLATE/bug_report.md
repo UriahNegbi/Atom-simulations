@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help us improve
 title: file did not found
-labels: bug, duplicate
+labels: ''
 assignees: UriahNegbi
 
 ---
