@@ -22,7 +22,7 @@ For feature suggestions or bug reports, please contact us.
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/atomsim.git
+git clone https://github.com/UriahNegbi/Atom-simulations
 Compile the project:
 bash
 Copy code
@@ -36,5 +36,3 @@ Copy code
 ./atomsim
 Contributors
 James (UR)
-License
-This project is licensed under the MIT License.
