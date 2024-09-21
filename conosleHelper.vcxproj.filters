@@ -27,6 +27,9 @@
     <ClCompile Include="stable.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Mass.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="protonon.h">
@@ -36,6 +39,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="stable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Mass.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

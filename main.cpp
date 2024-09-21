@@ -1,9 +1,10 @@
 #include <iostream>
 #include <Windows.h>
+#include <cstdlib>
 #include "protonon.h"
 #include "ion.h"
 #include "stable.h"
-
+#include "Mass.h"
 void Color(int color) {
 	SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), color);
 }
@@ -26,6 +27,8 @@ void input() {
 	setElementName(atomList[0]);
 	ionFinder(atomList);
 	checkStability(atomList);
+	calMass(atomList);
+	
 }
 
 int main() {
@@ -40,5 +43,8 @@ int main() {
 	else {
 		std::cout << ion << " ion" << std::endl;
 	}
-	std::cout << Stability;
+	std::cout << Stability << "\n";
+	std::cout << mass << "(kg)" << "\n";
+	Color(2);
+	system("pause");
 }
