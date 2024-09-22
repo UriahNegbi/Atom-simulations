@@ -34,5 +34,8 @@ Run the application:
 bash
 Copy code
 ./atomsim
+# ** more info**
+presentation: https://www.canva.com/design/DAGRXlsS9og/ONeFyXDI3eDBd7T-Ld5TQQ/edit?utm_content=DAGRXlsS9og&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 Contributors
 James (UR)
