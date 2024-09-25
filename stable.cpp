@@ -37,10 +37,10 @@ void checkStability(int atomList[]) {
             Stability = "Doubly magic, highly stable atom\n";
         }
         else if (isMagicProton) {
-            Stability = "Expected to be stable (magic proton)\n";
+            Stability = "Expected to be stable\n";
         }
         else if (neutrons >= protons) {
-            Stability = "Expected to be stable (neutrons >= protons)\n";
+            Stability = "Expected to be stable\n";
         }
         else {
             Stability = "Unstable atom\n";
