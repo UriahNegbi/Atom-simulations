@@ -1,5 +1,5 @@
 #include <iostream>
-double mass;
+double weight;
 int massReal;
 void calMass(int atomList[]){
 	double massnuetrons = 1.674927471e-27;
@@ -8,6 +8,6 @@ void calMass(int atomList[]){
 	int protons = atomList[0];
 	int nuetrons = atomList[2];
 	int electrons = atomList[1];
-	mass = electrons * masselectrons + protons * massprotons + nuetrons * massnuetrons;
+	weight = electrons * masselectrons + protons * massprotons + nuetrons * massnuetrons;
 	massReal = protons + nuetrons;
 }

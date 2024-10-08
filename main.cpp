@@ -45,7 +45,7 @@ void backEnd() {
 		}
 		std::cout << Stability << "\n";
 		std::cout << "mass:" << massReal << "\n";
-		std::cout << "weight: " << mass << "(kg) \n";
+		std::cout << "weight: " << weight << "(kg) \n";
 		Color(7);
 }
 int main() {

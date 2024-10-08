@@ -1,6 +1,6 @@
 #include <iostream>
 
 #pragma once
-extern double mass;
+extern double weight;
 extern int massReal;
 void calMass(int atomList[]);
